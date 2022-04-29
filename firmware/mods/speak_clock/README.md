@@ -41,6 +41,8 @@ I appreciate the [following issue](https://github.com/Moddable-OpenSource/moddab
 別途、stack-chan/firmware/stackchan フォルダに対して以下をコピーする必要があります。
 * aquestalk-esp32/src/aquestalk.h（ライブラリ定義ヘッダ ※59行目をコメントアウトしたもの）
 
+変更箇所の全容は[こちら](https://github.com/nekotoiruka/stack-chan/commit/f72dc87dc82c2a46dbf820f9b4f8eb413978d640)
+
 ---
 # Usage
 
